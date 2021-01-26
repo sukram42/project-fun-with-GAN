@@ -31,7 +31,7 @@ EPOCHS = 500
 
 NUM_CLASSES = 10
 
-LATENT_SPACE = 10
+LATENT_SPACE = 2
 
 recorder = PictureRecorder()
 
@@ -182,8 +182,8 @@ for epoch in range(EPOCHS):
     _validation_batch = gen(validation_seed)
     recorder.add(_validation_batch[0].numpy().reshape((28, 28)) * 127.5 + 127.5)
 
-recorder.save_movie("test2.mp4")
-oSaver = tf.saved_model.save(gen.model, "generator.model")
+recorder.save_movie("test_latent_2.mp4")
+oSaver = tf.saved_model.save(gen.model, "generator_model_latent_2")
 
 
 if __name__ == '__main__':
