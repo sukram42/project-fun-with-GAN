@@ -1,6 +1,7 @@
 
 <img src="https://github.com/sukram42/project-fun-with-GAN/blob/main/GAN_on_MNIST/videos/gan_generates_0_latentstate10.gif" width="250" height="200">
-# Project __FUN with GAN__
+
+# Project FUN with GAN
 
 I am using this repository to make some experiments with **Generative Adversarial 
 Networks (GAN)**. To not fully spam my github profile with all the different projects, I
