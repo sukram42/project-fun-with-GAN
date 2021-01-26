@@ -1,5 +1,5 @@
-![gan_training](./GAN_on_MNIST/videos/gan_generate_0_latentstate10.gif)
 
+<img src="https://github.com/sukram42/project-fun-with-GAN/blob/main/GAN_on_MNIST/videos/gan_generates_0_latentstate10.gif" width="250" height="200">
 # Project __FUN with GAN__
 
 I am using this repository to make some experiments with **Generative Adversarial 
