@@ -183,7 +183,7 @@ for epoch in range(EPOCHS):
     recorder.add(_validation_batch[0].numpy().reshape((28, 28)) * 127.5 + 127.5)
 
 recorder.save_movie("test_latent_2.mp4")
-oSaver = tf.saved_model.save(gen.model, "generator_model_latent_2")
+oSaver = tf.saved_model.save(gen.model, "generator_model_latent_10")
 
 
 if __name__ == '__main__':

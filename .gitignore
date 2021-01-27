@@ -1,6 +1,8 @@
 .idea
+function_GAN_pytorch/.idea
 /GAN_on_MNIST/generator_model_latent_2_old/
 /GAN_on_MNIST/generator_model_latent_10/
 /GAN_on_MNIST/test_latent_2.mp4
 /GAN_on_MNIST/subplots.mp4
 /GAN_on_MNIST/gan_latent_state_10.mp4
+/GAN_on_MNIST/generator_model_latent_2/
