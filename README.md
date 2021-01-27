@@ -1,6 +1,7 @@
-![gan_training](./GAN_on_MNIST/videos/gan_generate_0_latentstate10.gif)
 
-# Project __FUN with GAN__
+<img src="https://github.com/sukram42/project-fun-with-GAN/blob/main/GAN_on_MNIST/videos/gan_generates_0_latentstate10.gif" width="250" height="200">
+
+# Project FUN with GAN
 
 I am using this repository to make some experiments with **Generative Adversarial 
 Networks (GAN)**. To not fully spam my github profile with all the different projects, I
@@ -15,8 +16,8 @@ The following list shows all my subprojects. I use this list as an __TODO__-list
 
 | Project_name | year | Description | Frameworks used
 | :---:        | :---:|       :---: | :---:   
-| GAN on simple Function | 2020 | As a simple start I wanted to train a GAN on simple function like sin etc. This I have done in this part | ![Pytorch](https://img.shields.io/badge/PyTorch-blue)       
-| GAN on MNIST |  2020| To begin with I want to create a simple GAN network which is able to generate numbers from the MNIST dataset. I further want to analyse the latent state | ![Tensorflow 2.4](https://img.shields.io/badge/Tensorflow2.4-orange)
+| [GAN on simple Function](https://github.com/sukram42/project-fun-with-GAN/tree/main/GAN_on_MNIST) | 2021 | As a simple start I wanted to train a GAN on simple function like sin etc. This I have done in this part | ![Pytorch](https://img.shields.io/badge/PyTorch-blue)       
+| GAN on MNIST |  2021| To begin with I want to create a simple GAN network which is able to generate numbers from the MNIST dataset. I further want to analyse the latent state | ![Tensorflow 2.4](https://img.shields.io/badge/Tensorflow2.4-orange)
 | CondGANonMNIST| planned | Next I want to create a Conditioned GAN on the MNIST and compare it to the first GAN network | ![unspecified](https://img.shields.io/badge/unspecified-black)
 | BI-GAN| planned | BI-GANs train an encoder network with the generator. I thought an comparison to a Variational Autoencoder would be nice to see. Especially focussed on Sample Efficiency|![unspecified](https://img.shields.io/badge/unspecified-black)
 | BI-GAN / VAC for Anomaly Detection | planned | Bi-GANs encode train on 'normal' datapoints. Can't we use this to find anomalies in image or timeseries data?|![unspecified](https://img.shields.io/badge/unspecified-black)
