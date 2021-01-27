@@ -1,6 +1,13 @@
 
-<img src="https://github.com/sukram42/project-fun-with-GAN/blob/main/GAN_on_MNIST/videos/gan_generates_0_latentstate10.gif" width="250" height="200">
-
+<p>
+  <a href=https://github.com/sukram42/project-fun-with-GAN/tree/main/GAN_on_MNIST>
+    <img alt="MNIST Generator" src="https://github.com/sukram42/project-fun-with-GAN/blob/main/GAN_on_MNIST/videos/gan_generates_0_latentstate10.gif" width="250" height="200"/>
+  </a>
+  <a alt="Training of a simple Generator" href=https://github.com/sukram42/project-fun-with-GAN/blob/main/function_GAN_pytorch>
+    <img src="https://github.com/sukram42/project-fun-with-GAN/blob/main/function_GAN_pytorch/training.gif" height="200"/>
+  <a/>
+</p>
+     
 # Project FUN with GAN
 
 I am using this repository to make some experiments with **Generative Adversarial 
